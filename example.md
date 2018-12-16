@@ -12,4 +12,5 @@
 # todo list
 * eat food
 * read a book
+* walk the dog
 * go to sleep
